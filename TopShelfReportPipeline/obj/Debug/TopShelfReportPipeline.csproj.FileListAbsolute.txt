@@ -1,0 +1,7 @@
+c:\users\ecourant\Source\Repos\TopShelfReportPipeline\TopShelfReportPipeline\bin\Debug\TopShelfReportPipeline.dll
+c:\users\ecourant\Source\Repos\TopShelfReportPipeline\TopShelfReportPipeline\bin\Debug\TopShelfReportPipeline.pdb
+c:\users\ecourant\Source\Repos\TopShelfReportPipeline\TopShelfReportPipeline\bin\Debug\Newtonsoft.Json.dll
+c:\users\ecourant\Source\Repos\TopShelfReportPipeline\TopShelfReportPipeline\bin\Debug\Newtonsoft.Json.xml
+c:\users\ecourant\Source\Repos\TopShelfReportPipeline\TopShelfReportPipeline\obj\Debug\TopShelfReportPipeline.csproj.CoreCompileInputs.cache
+c:\users\ecourant\Source\Repos\TopShelfReportPipeline\TopShelfReportPipeline\obj\Debug\TopShelfReportPipeline.dll
+c:\users\ecourant\Source\Repos\TopShelfReportPipeline\TopShelfReportPipeline\obj\Debug\TopShelfReportPipeline.pdb

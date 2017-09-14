@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopShelfReportPipeline", "TopShelfReportPipeline\TopShelfReportPipeline.csproj", "{2E22CCA4-8C48-439A-90A6-3C348C854B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopShelfReportPipeline Unit Tests", "TopShelfReportPipeline Unit Tests\TopShelfReportPipeline Unit Tests.csproj", "{083A887A-E118-44A7-A429-4B45B6CD6E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E22CCA4-8C48-439A-90A6-3C348C854B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E22CCA4-8C48-439A-90A6-3C348C854B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E22CCA4-8C48-439A-90A6-3C348C854B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E22CCA4-8C48-439A-90A6-3C348C854B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083A887A-E118-44A7-A429-4B45B6CD6E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083A887A-E118-44A7-A429-4B45B6CD6E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083A887A-E118-44A7-A429-4B45B6CD6E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083A887A-E118-44A7-A429-4B45B6CD6E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7558D175-C0B6-4DBB-88A0-0C9CE7074EFF}
+	EndGlobalSection
+EndGlobal
